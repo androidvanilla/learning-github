@@ -1,3 +1,4 @@
 Name: Shahzaib Khalid
 Age: 21
 City: Gujrat
+CNIC: 34201-1263718-5
