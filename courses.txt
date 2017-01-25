@@ -1,2 +1,3 @@
 Courses Taken are:
 Java Specialization by Duke University on Coursera
+Google Cloud Platform (GCP) specialization
